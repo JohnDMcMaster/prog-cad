@@ -2,3 +2,5 @@
 
 Misc programmer adapters
 
+Related repos:
+* 
