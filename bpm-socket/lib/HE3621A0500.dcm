@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HE3621A0500
+D Reed Relays REED RELAY
+F https://componentsearchengine.com/Datasheets/1/HE3621A0500.pdf
+$ENDCMP
+#
+$CMP HE3621A0500-ME
+D Reed Relays REED RELAY
+F https://componentsearchengine.com/Datasheets/1/HE3621A0500.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "socket")(type "Legacy")(uri "/home/mcmaster/doc/ext/bpm-socket/lib/40-6554-10.lib")(options "")(descr ""))
+  (lib (name "relay")(type "Legacy")(uri "/home/mcmaster/doc/ext/bpm-socket/lib/HE3621A0500.lib")(options "")(descr ""))
+  (lib (name "eeprom")(type "Legacy")(uri "/home/mcmaster/doc/ext/bpm-socket/lib/93C46B-E_SN.lib")(options "")(descr ""))
+  (lib (name "conn")(type "Legacy")(uri "/home/mcmaster/doc/ext/bpm-socket/lib/5650933-5.lib")(options "")(descr ""))
+  (lib (name "dig1")(type "Legacy")(uri "/home/mcmaster/lib/kicad/digikey-kicad-library-master/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib")(options "")(descr ""))
+  (lib (name "sm48d-rescue")(type "Legacy")(uri "${KIPRJMOD}/sm48d-rescue.lib")(options "")(descr ""))
+)

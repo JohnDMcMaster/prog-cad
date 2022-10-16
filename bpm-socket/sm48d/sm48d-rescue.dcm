@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 48-6554-11-socket
+F http://www.arieselec.com/products/data/10001-universal-dip-zif-test-socket.pdf
+$ENDCMP
+#
+$CMP 93C46B-E_SN-eeprom
+F 93C46 Series 1 Kbit _64 x 16_ 5.5 V Microwire Compatible Serial EEPROM - SOIC-8
+$ENDCMP
+#
+#End Doc Library

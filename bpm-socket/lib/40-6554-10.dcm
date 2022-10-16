@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 40-6554-10
+D 40way universal ZIF socket,0.3/0.6in Aries Electronics 2.54mm Pitch 40 Way Through Hole Universal ZIF Test Socket
+K
+F http://www.arieselec.com/products/data/10001-universal-dip-zif-test-socket.pdf
+$ENDCMP
+#
+#End Doc Library
