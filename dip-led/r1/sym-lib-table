@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "prog")(type "KiCad")(uri "/home/mcmaster/doc/ext/prog-cad/lib/prog.kicad_sym")(options "")(descr ""))
+)
